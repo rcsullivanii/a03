@@ -1,4 +1,6 @@
 # Assignment 3
+## Team
+Cole Vita and Robert Sullivan
 ## Basic Erlang Programming
 In this assignment we will get Erlang running on your computers, and then write two simple Erlang programs. The goal is to get familiar with Erlang syntax and with the Erlang functional programming style.
 
@@ -43,4 +45,13 @@ Since this is group work, the group produces a common solution and one group mem
 
 Identify the coder(s) even if you are a solo "team".
 Make two modules... named "p1" and "p2" . Put your module source files into one zip file, include a README file for any comments you might want to note (as well as put your group member names in that README file), and in Canvas, submit this single zip file.
+## Sources
+https://www.tutorialspoint.com/erlang/erlang_is_integer.htm
 
+https://erlang.org/documentation/doc-5.3/lib/stdlib-1.12/doc/html/io.html
+
+https://stackoverflow.com/questions/6820193/when-should-an-erlang-function-return-ok
+
+https://www.tutorialspoint.com/erlang/erlang_arithmatic_operators.htm
+
+http://bluegraybox.com/blog/2011/12/06/crafty-erlang/
