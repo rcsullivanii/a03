@@ -23,7 +23,7 @@ get_numData() ->
                 end;
             {ok, _} -> 
                 io:format("Not an integer~n");
-            {error, _} -> % should this catch even inputs not ending in "."
+            {error, _} -> 
                 io:format("Not a valid input~n")
     end.
 
